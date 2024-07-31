@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Gustavo Estudillo</h1>
-<h3 align="center">I'm a python developer from Mexico</h3>
+<h3 align="center">I'm a Front End developer from Mexico</h3>
 
 # 💻 Some technologies and tools I use:
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
